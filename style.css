@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: purple;
+    border-radius: 40px;
+    padding: 5px;
+    border-style: solid;
+    width: 80%;
+}
+
+.heading_1{
+    font-size: 27px;
+    color: rgb(170, 5, 101);
+    border-style: dotted;
+    width: 10%;
+    background-color: transparent;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+#input_name{
+    color: brown;
+    font-size: 25px;
+    font-family:cursive;
+    border-radius: 20px;
+    width: 20%;
+    border-style: double;
+    box-shadow: 5px 5px 5px grey;
+    text-align: center;
+}
